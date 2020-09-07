@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: James Sheppard
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Web Development
+subheading: Progammer, Reader, Learner
 mainpitch:
-  title: Why Kaldi
+  title: Web Development
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    James is a motivated learner and programmer. After dipping his toes in the "coding water" several times, he finally dove into JS, HTML/CSS and React in April 2020. Since then, he has been playing around with arrays, toying with static websites, and improving his problem solving skills. In September 2020, James enrolled in the UpLeveled Coding Bootcamp in Vienna, Austria, in the hopes of becoming a web developer.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
